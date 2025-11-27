@@ -1,0 +1,23 @@
+server:
+  port: 8084
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/bankx
+
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+
+  h2:
+    console:
+      enabled: true
+      path: /h2
+
+logging:
+  level:
+    org.springframework.r2dbc: warn
+    org.springframework.data.mongodb: info
+    org.hibernate.SQL: debug

@@ -1,0 +1,15 @@
+C:\Users\jllacsmo\Downloads\proyectos\transactions-service\src\main\java\com\bankx\transactions_service\api\dto\CreateTxRequest.java
+C:\Users\jllacsmo\Downloads\proyectos\transactions-service\src\main\java\com\bankx\transactions_service\api\error\BusinessException.java
+C:\Users\jllacsmo\Downloads\proyectos\transactions-service\src\main\java\com\bankx\transactions_service\api\error\GlobalErrorHandler.java
+C:\Users\jllacsmo\Downloads\proyectos\transactions-service\src\main\java\com\bankx\transactions_service\api\TransactionController.java
+C:\Users\jllacsmo\Downloads\proyectos\transactions-service\src\main\java\com\bankx\transactions_service\config\DataSeeder.java
+C:\Users\jllacsmo\Downloads\proyectos\transactions-service\src\main\java\com\bankx\transactions_service\config\SinkConfig.java
+C:\Users\jllacsmo\Downloads\proyectos\transactions-service\src\main\java\com\bankx\transactions_service\domain\Account.java
+C:\Users\jllacsmo\Downloads\proyectos\transactions-service\src\main\java\com\bankx\transactions_service\domain\Transaction.java
+C:\Users\jllacsmo\Downloads\proyectos\transactions-service\src\main\java\com\bankx\transactions_service\legacy\RiskRule.java
+C:\Users\jllacsmo\Downloads\proyectos\transactions-service\src\main\java\com\bankx\transactions_service\legacy\RiskRuleRepository.java
+C:\Users\jllacsmo\Downloads\proyectos\transactions-service\src\main\java\com\bankx\transactions_service\repository\AccountRepository.java
+C:\Users\jllacsmo\Downloads\proyectos\transactions-service\src\main\java\com\bankx\transactions_service\repository\TransactionRepository.java
+C:\Users\jllacsmo\Downloads\proyectos\transactions-service\src\main\java\com\bankx\transactions_service\service\RiskService.java
+C:\Users\jllacsmo\Downloads\proyectos\transactions-service\src\main\java\com\bankx\transactions_service\service\TransactionService.java
+C:\Users\jllacsmo\Downloads\proyectos\transactions-service\src\main\java\com\bankx\transactions_service\TransactionsServiceApplication.java
